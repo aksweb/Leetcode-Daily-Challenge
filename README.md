@@ -1,4 +1,4 @@
-# GFG Problem of the Day Solutions
+# Leetcode Daily Challenge Solutions
 
 <br>
 <i> This repository contains solutions (C++/Python) to the Leetcode daily challenge. All solutions are uploaded before evening of the day. Access the code by clicking on Problem Link: </i>
