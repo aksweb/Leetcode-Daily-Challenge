@@ -6,7 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
-- [C++\_Excel_sheet_column_titile_22Aug23](.https://leetcode.com/problems/excel-sheet-column-title/submissions/1028650182/) || [EASY (MATHS, STRING) -]
+- [C++\_Excel_sheet_column_titile_22Aug23](https://leetcode.com/problems/excel-sheet-column-title/submissions/1028650182/) || [EASY (MATHS, STRING) -]
 - [PY_Excel_sheet_column_titile_22Aug23](https://leetcode.com/problems/excel-sheet-column-title/submissions/1028666815/) || [EASY (MATHS, STRING) -]
 
 ![leetcode](https://leetcode.com/static/images/LeetCode_Sharing.png)
