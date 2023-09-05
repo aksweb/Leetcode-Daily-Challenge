@@ -6,6 +6,7 @@
 To view the code for a specific problem, simply click on the corresponding file name above.
 <br><br>
 
+- [C++\Copy_List_with_Random_Pointer](./Solutions/Copy_List_with_Random_Pointer.cpp) || [MEDIUM (LINKED LIST,BASIC PROGRAMMING) - View in leetcode :](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/?envType=daily-question&envId=2023-09-05)
 - [C++\_Reorganize_string_23Aug23](./Solutions/Reorganized_string_23Aug23.cpp) || [MEDIUM (MAP (OR PRIORITY QUEUE), STRING) - View in leetcode :](https://leetcode.com/problems/reorganize-string/submissions/1029657352/)
 
 - [C++\_Reorganize_string_23Aug23](./Solutions/Reorganized_string_23Aug23.cpp https://leetcode.com/problems/excel-sheet-column-title/submissions/1028650182/) || [EASY (MATHS, STRING) -]
